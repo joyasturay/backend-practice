@@ -1,2 +1,5 @@
-let a=5;
+let a=8;
 console.log(a);
+import {sum,mul} from "./math.js";
+console.log(sum(2,3));
+console.log(mul(2,3));

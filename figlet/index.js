@@ -1,4 +1,4 @@
-var figlet = require("figlet");
+/*var figlet = require("figlet");
 figlet("Joyastu Ray!", function (err, data) {
     if (err) {
       console.log("Something went wrong...");
@@ -6,4 +6,4 @@ figlet("Joyastu Ray!", function (err, data) {
       return;
     }
     console.log(data);
-  });
+  });*/
